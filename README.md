@@ -32,8 +32,12 @@ Nassar, Rula, Antonia N. Kaczkurkin, Cedric Huchuan Xia, Aristeidis Sotiras, Mar
 
 Varikuti, Deepthi P., Sarah Genon, Aristeidis Sotiras, Holger Schwender, Felix Hoffstaedter, Kaustubh R. Patil, Christiane Jockwitz, Svenja Caspers, Susanne Moebus, Katrin Amunts, Christos Davatzikos, and Simon Eickhoff. **Evaluation of non-negative matrix factorization of grey matter in age prediction.** *NeuroImage* 173 (2018): 394-410.
 
-Antonia Kaczkurkin, Rula Nassar, Cedric Xia, Aristeidis Sotiras, Marieta Pehlivanova, Tyler M. Moore, Angel Garcia de la Garza, David R. Roalf, Adon Rosen, Scott Lorch, Kosha Ruparel, Russell T. Shinohara, Christos Davatzikos, Ruben C. Gur, Raquel E. Gur, Theodore D. Satterthwaite. **A Dimensional Measure of Prematurity is Associated With Structural Brain Network Abnormalities in Children, Adolescents, and Young Adults.** *Neuropsychompharmachology* 43 (2017): S304-S305
+Antonia Kaczkurkin, Rula Nassar, Cedric Xia, Aristeidis Sotiras, Marieta Pehlivanova, Tyler M. Moore, Angel Garcia de la Garza, David R. Roalf, Adon Rosen, Scott Lorch, Kosha Ruparel, Russell T. Shinohara, Christos Davatzikos, Ruben C. Gur, Raquel E. Gur, and Theodore D. Satterthwaite. **A Dimensional Measure of Prematurity is Associated With Structural Brain Network Abnormalities in Children, Adolescents, and Young Adults.** *Neuropsychompharmachology* 43 (2017): S304-S305
 
-Yin Chen, Aristeidis Sotiras, Ilya Nasrallah, Rizwan Akhtar, Jacqueline Rick, Alice Chen-Plotkin, John Trojanowski, Daniel Weintraub, Christos Davatzikos, Jacob Dubroff. **Non-negative matrix factorization evaluation of patterns of brain Aβ deposition in Parkinson’s disease, Alzheimer’s disease and normal controls on \[<sup>18F<sup>\]florbetapir PET.** *Journal of Nuclear Medicine* 59 (2018):484-484
-  
+Yin Chen, Aristeidis Sotiras, Ilya Nasrallah, Rizwan Akhtar, Jacqueline Rick, Alice Chen-Plotkin, John Trojanowski, Daniel Weintraub, Christos Davatzikos, and Jacob Dubroff. **Non-negative matrix factorization evaluation of patterns of brain Aβ deposition in Parkinson’s disease, Alzheimer’s disease and normal controls on \[<sup>18F</sup>\]florbetapir PET.** *Journal of Nuclear Medicine* 59 (2018): 484-484
+
+Robert Jirsaraie, Sage Rush, Antonia Kaczkurkin, Adon Rosen, Aristeidis Sotiras, Rastko Ciric, Phillip Cook, Mark Elliott, David Roalf, Danielle Bassett, Russell Shinohara, Ellen Leibenluft, Christos Davatzikos, Daniel Wolf, and Theodore Satterthwaite. **Accelerated Cortical Thinning Within Structural Brain Networks is Associated With Irritability in Youth.** *Biological Psychiatry* 83, no. 9 (2018): S402-S402
+
+Sarah Genon, Deepthi Varikuti, Aristeidis Sotiras, Holger Schwender, Felix Hoffstaedter, Kaustubh Patil, Christiane Jockwitz, Svenja Caspers, Susanne Moebus, Katrin Amunts, Christos Davatzikos, and Simon Eickhoff. **Localized compression of grey matter maps for age prediction in healthy and clinical populations.** *Organization for Human Brain Mapping (OHBM)* (2018) 
+
 ----
