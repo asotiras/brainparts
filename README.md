@@ -12,7 +12,7 @@ The default values are the ones we ypically use in our experiments. Note that we
 
 ## Reference
 
-Sotiras, Aristeidis, Susan M. Resnick, and Christos Davatzikos. **Finding imaging patterns of structural covariance via non-negative matrix factorization.** *NeuroImage* 108 (2015): 1-16.
+Sotiras, Aristeidis, Susan M. Resnick, and Christos Davatzikos. **[Finding imaging patterns of structural covariance via non-negative matrix factorization.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357179/)** *NeuroImage* 108 (2015): 1-16.
 
 Yang, Zhirong, and Erkki Oja. **Linear and nonlinear projective nonnegative matrix factorization.** *IEEE Transactions on Neural Networks* 21, no. 5 (2010): 734-749.
 
