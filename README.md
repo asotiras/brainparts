@@ -14,23 +14,23 @@ The default values are the ones we ypically use in our experiments. Note that we
 
 Sotiras, Aristeidis, Susan M. Resnick, and Christos Davatzikos. **[Finding imaging patterns of structural covariance via non-negative matrix factorization.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357179/)** *NeuroImage* 108 (2015): 1-16.
 
-Yang, Zhirong, and Erkki Oja. **Linear and nonlinear projective nonnegative matrix factorization.** *IEEE Transactions on Neural Networks* 21, no. 5 (2010): 734-749.
+Yang, Zhirong, and Erkki Oja. **[Linear and nonlinear projective nonnegative matrix factorization.](https://ieeexplore.ieee.org/document/5438836/)** *IEEE Transactions on Neural Networks* 21, no. 5 (2010): 734-749.
 
-Boutsidis, Christos, and Efstratios Gallopoulos. **SVD based initialization: A head start for nonnegative matrix factorization.** *Pattern Recognition* 41, no. 4 (2008): 1350-1362.
+Boutsidis, Christos, and Efstratios Gallopoulos. **[SVD based initialization: A head start for nonnegative matrix factorization.](https://www.sciencedirect.com/science/article/pii/S0031320307004359)** *Pattern Recognition* 41, no. 4 (2008): 1350-1362.
 
-Halko, Nathan, Per-Gunnar Martinsson, and Joel A. Tropp. **Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions.** *SIAM review* 53, no. 2 (2011): 217-288.
+Halko, Nathan, Per-Gunnar Martinsson, and Joel A. Tropp. **[Finding structure with randomness: Probabilistic algorithms for constructing approximate matrix decompositions.](https://epubs.siam.org/doi/abs/10.1137/090771806)** *SIAM review* 53, no. 2 (2011): 217-288.
 
 ----
 
 ## Papers using this code to identify patterns in neuroimaging data
 
-Sotiras, Aristeidis, Jon B. Toledo, Raquel E. Gur, Ruben C. Gur, Theodore D. Satterthwaite, and Christos Davatzikos. **Patterns of coordinated cortical remodeling during adolescence and their associations with functional specialization and evolutionary expansion.** *Proceedings of the National Academy of Sciences* 114, no. 13 (2017): 3527-3532.
+Sotiras, Aristeidis, Jon B. Toledo, Raquel E. Gur, Ruben C. Gur, Theodore D. Satterthwaite, and Christos Davatzikos. **[Patterns of coordinated cortical remodeling during adolescence and their associations with functional specialization and evolutionary expansion.](http://www.pnas.org/content/114/13/3527/)** *Proceedings of the National Academy of Sciences* 114, no. 13 (2017): 3527-3532.
 
-Marieta Pehlivanova, Daniel H. Wolf, Aristeidis Sotiras, Antonia Kaczkurkin, Tyler M. Moore, Rastko Ciric, Philip A. Cook, Angel Garcia de La Garza, Adon Rosen, Kosha Ruparel, Anup Sharma, Russell T. Shinohara, David R. Roalf, Ruben C. Gur, Christos Davatzikos, Raquel E. Gur, Joseph W. Kable and Theodore D. Satterthwaite. **Diminished cortical thickness is associated with impulsive choice in adolescence.** *Journal of neuroscience* (2018): 2200-17.
+Marieta Pehlivanova, Daniel H. Wolf, Aristeidis Sotiras, Antonia Kaczkurkin, Tyler M. Moore, Rastko Ciric, Philip A. Cook, Angel Garcia de La Garza, Adon Rosen, Kosha Ruparel, Anup Sharma, Russell T. Shinohara, David R. Roalf, Ruben C. Gur, Christos Davatzikos, Raquel E. Gur, Joseph W. Kable and Theodore D. Satterthwaite. **[Diminished cortical thickness is associated with impulsive choice in adolescence.](http://www.jneurosci.org/content/early/2018/02/12/JNEUROSCI.2200-17.2018)** *Journal of neuroscience* (2018): 2200-17.
 
-Nassar, Rula, Antonia N. Kaczkurkin, Cedric Huchuan Xia, Aristeidis Sotiras, Marieta Pehlivanova, Tyler M. Moore, Angel Garcia de La Garza, David R. Roalf, Adon F. G. Rosen, Scott A. Lorch, Kosha Ruparel, Russell T. Shinohara, Christos Davatzikos, Ruben C. Gur, Raquel E. Gur, and Theodore D. Satterthwaite. **Gestational Age is Dimensionally Associated with Structural Brain Network Abnormalities Across Development.** *Cerebral Cortex* (2018).
+Nassar, Rula, Antonia N. Kaczkurkin, Cedric Huchuan Xia, Aristeidis Sotiras, Marieta Pehlivanova, Tyler M. Moore, Angel Garcia de La Garza, David R. Roalf, Adon F. G. Rosen, Scott A. Lorch, Kosha Ruparel, Russell T. Shinohara, Christos Davatzikos, Ruben C. Gur, Raquel E. Gur, and Theodore D. Satterthwaite. **[Gestational Age is Dimensionally Associated with Structural Brain Network Abnormalities Across Development.](https://academic.oup.com/cercor/advance-article/doi/10.1093/cercor/bhy091/4980862)** *Cerebral Cortex* (2018).
 
-Varikuti, Deepthi P., Sarah Genon, Aristeidis Sotiras, Holger Schwender, Felix Hoffstaedter, Kaustubh R. Patil, Christiane Jockwitz, Svenja Caspers, Susanne Moebus, Katrin Amunts, Christos Davatzikos, and Simon Eickhoff. **Evaluation of non-negative matrix factorization of grey matter in age prediction.** *NeuroImage* 173 (2018): 394-410.
+Varikuti, Deepthi P., Sarah Genon, Aristeidis Sotiras, Holger Schwender, Felix Hoffstaedter, Kaustubh R. Patil, Christiane Jockwitz, Svenja Caspers, Susanne Moebus, Katrin Amunts, Christos Davatzikos, and Simon Eickhoff. **[Evaluation of non-negative matrix factorization of grey matter in age prediction.](https://www.sciencedirect.com/science/article/pii/S1053811918301927)** *NeuroImage* 173 (2018): 394-410.
 
 Antonia Kaczkurkin, Rula Nassar, Cedric Xia, Aristeidis Sotiras, Marieta Pehlivanova, Tyler M. Moore, Angel Garcia de la Garza, David R. Roalf, Adon Rosen, Scott Lorch, Kosha Ruparel, Russell T. Shinohara, Christos Davatzikos, Ruben C. Gur, Raquel E. Gur, and Theodore D. Satterthwaite. **A Dimensional Measure of Prematurity is Associated With Structural Brain Network Abnormalities in Children, Adolescents, and Young Adults.** *Neuropsychompharmachology* 43 (2017): S304-S305
 
