@@ -2,7 +2,7 @@
 
 NMF Code for calculating components from Brain imaging data.
 
-The first matlab functions (opnmfm and opnmf_mem.m) implement the orthogonal projective non-negative matrix factorization. The only difference between them is that the order of the matrix multiplications in the multiplicative update rule of opnmf_mem.m function has been rearranged so that high dimensional imaging data can used. For low dimensional data, the function opnmf.m should be faster. Note that in both functions, at every iteration, really low values are thresholded out as they result in increased computational cost.
+The first matlab functions (opnmf.m and opnmf_mem.m) implement the orthogonal projective non-negative matrix factorization. The only difference between them is that the order of the matrix multiplications in the multiplicative update rule of opnmf_mem.m function has been rearranged so that high dimensional imaging data can used. For low dimensional data, the function opnmf.m should be faster. Note that in both functions, at every iteration, really low values are thresholded out as they result in increased computational cost.
 
 NNSVD.m initializes the factorization. In our experiments, we have found it to be much more efficient than random initialization and the first (default) option is deterministic. It works by operating a dual SVD decomposition. The SVD may require a lot of memory resources depending on the size and number of images. Thus, a fast randomized SVD procedure (flag=4) is often employed. The randomized procedure makes use of randomized principal component analysis (randpca.m file).  In our experiments, we have found the approximation to be quite accurate and useful for practical purposes since it decreases the overall memory requirements of the code.
 
